@@ -1,5 +1,6 @@
 # xmshop
 
+# 仿小米商城的app
 A new Flutter project.
 
 ## Getting Started

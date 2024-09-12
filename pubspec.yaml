@@ -19,4 +19,8 @@ dev_dependencies:
 
 flutter: 
   uses-material-design: true
+  fonts:
+    - family: ityingIcon   #指定一个字体名，自定义的
+      fonts:
+        - asset: assets/fonts/iconfont.ttf
 
